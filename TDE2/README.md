@@ -1,7 +1,7 @@
 # Torre de Hanoi customizada
 
 - [Relatório - DOC](https://github.com/mrslima/RPEC/blob/main/TDE2/Relat%C3%B3rio%20sobre%20como%20manipular%20o%20programa.pdf)
-- [Vídeo]()
+- [Vídeo](https://youtu.be/8MhzYlLCzrw)
 - [Repl.it](https://replit.com/@mrslima/RPEC-TDE2)
 
 ----
