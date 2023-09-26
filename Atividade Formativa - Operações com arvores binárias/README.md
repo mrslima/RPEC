@@ -38,7 +38,7 @@ class ArvoreBinariaBusca {
 
 ```
 
-# 2. Escreva algoritmos para percorrer uma árvore binária nas formas préordem, inordem e pósordem
+# 2. Escreva algoritmos para percorrer uma árvore binária nas formas préordem, inordem e pósordem.
 ```java
 class No {
     int valor;
