@@ -235,8 +235,7 @@ class ArvoreBinariaBusca {
 }
 ```
 
-# 5. Considere que uma árvore binária de busca não possui elementos repetidos. Escreva um
-algoritmo que remova um determinado elemento com valor N da árvore
+# 5. Considere que uma árvore binária de busca não possui elementos repetidos. Escreva um algoritmo que remova um determinado elemento com valor N da árvore
 ```java
 class No {
     int valor;
